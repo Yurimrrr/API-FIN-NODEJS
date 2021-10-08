@@ -8,7 +8,7 @@
 - [x] Deve ser possivel atualizar dados da conta do cliente
 - [x] Deve ser possivel obter dados da conta do cliente
 - [x] Deve ser possivel deletar uma conta
-- [] Deve ser possivel retornar o balanco
+- [x] Deve ser possivel retornar o balanco
 
 ### REGRAS DE NEGOCIO
 
