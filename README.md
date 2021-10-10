@@ -1,3 +1,5 @@
+API de cadastro de usuarios e controle financeiro
+
 ### REQUISITOS
 
 - [x] Deve ser possivel criar uma conta
